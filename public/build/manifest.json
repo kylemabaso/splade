@@ -1,6 +1,6 @@
 {
   "resources/js/app.js": {
-    "file": "assets/app.76516107.js",
+    "file": "assets/app.5d2a9095.js",
     "src": "resources/js/app.js",
     "isEntry": true,
     "dynamicImports": [
@@ -11,12 +11,12 @@
       "node_modules/filepond-plugin-image-validate-size/dist/filepond-plugin-image-validate-size.esm.js",
       "node_modules/filepond/dist/filepond.esm.js",
       "node_modules/flatpickr/dist/esm/index.js",
-      "_choices.f7c37084.js",
+      "_choices.b9a09f6e.js",
       "node_modules/autosize/dist/autosize.esm.js",
-      "_nprogress.600cfce4.js"
+      "_nprogress.b3215fac.js"
     ],
     "css": [
-      "assets/app.0da3d46c.css"
+      "assets/app.0017ddba.css"
     ]
   },
   "node_modules/filepond-plugin-image-preview/dist/filepond-plugin-image-preview.esm.js": {
@@ -54,8 +54,8 @@
     "src": "node_modules/flatpickr/dist/esm/index.js",
     "isDynamicEntry": true
   },
-  "_choices.f7c37084.js": {
-    "file": "assets/choices.f7c37084.js",
+  "_choices.b9a09f6e.js": {
+    "file": "assets/choices.b9a09f6e.js",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.js"
@@ -66,15 +66,15 @@
     "src": "node_modules/autosize/dist/autosize.esm.js",
     "isDynamicEntry": true
   },
-  "_nprogress.600cfce4.js": {
-    "file": "assets/nprogress.600cfce4.js",
+  "_nprogress.b3215fac.js": {
+    "file": "assets/nprogress.b3215fac.js",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.js"
     ]
   },
   "resources/js/app.css": {
-    "file": "assets/app.0da3d46c.css",
+    "file": "assets/app.0017ddba.css",
     "src": "resources/js/app.css"
   }
 }
